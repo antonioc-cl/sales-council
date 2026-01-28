@@ -15,7 +15,7 @@ Expert sales council with 6 advisors for pricing, persuasion, negotiation, copyw
 
 ### Claude Code
 ```bash
-/plugin add https://github.com/TOPAiiN/sales-council
+/plugin add https://github.com/antonioc-cl/sales-council
 ```
 
 ### Claude.ai
