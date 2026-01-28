@@ -13,6 +13,11 @@ Expert sales council with 6 advisors for pricing, persuasion, negotiation, copyw
 
 ## Installation
 
+### npx skills add (recommended)
+```bash
+npx skills add antonioc-cl/sales-council
+```
+
 ### Claude Code
 ```bash
 /plugin add https://github.com/antonioc-cl/sales-council
