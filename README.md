@@ -1,3 +1,5 @@
+
+
 # Sales Council Agent Skill
 
 Expert sales council with 6 advisors for pricing, persuasion, negotiation, copywriting, and pitch strategies.
@@ -28,7 +30,9 @@ Upload the `sales-council` folder or add via skills panel.
 
 ## Usage
 
-Activate when you need help with:
+Simply describe your sales challenge. The council will automatically diagnose the situation and activate the most relevant advisors (or ask one clarifying question if needed).
+
+Ideal for:
 
 - Pricing strategy and offer design
 - Sales conversations and discovery calls
